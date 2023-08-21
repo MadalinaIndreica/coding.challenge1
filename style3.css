@@ -1,0 +1,80 @@
+body{
+    background-image:url(background.jpg);
+    background-size: 115%;
+    margin: 200px;
+    
+}
+.logo{
+    width: 15%;
+}
+h1{
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(128, 255, 0); 
+line-height: 5px;
+
+}
+body{
+    text-align: center;
+}
+nav{
+    background-color: chartreuse;
+     padding: 20px;
+     margin: 50px;
+}
+.monopattino1{
+    font-size: 25px;
+  
+ }
+
+ .monopattino2{
+    font-size: 25px;
+    line-height: 50px;
+  
+    }
+
+   .monopattino3{
+    font-size: 25px;
+    line-height:  50px;
+  
+     }   
+
+main{
+    display: inline-block;
+    color: white;
+}
+section{
+    text-align: left;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rettangolo{
+    width:300px;
+    height: 25px;px;
+    background-color:orange;
+    border-radius: 5px;
+    
+}
+.rettangolo2{
+    width:500px;
+    height: 25px;
+    background-color:chartreuse;
+    border-radius: 5px;
+   
+}
+.rettangolo3{
+    width: 150px;
+    height: 25px;
+    background-color:rgb(195, 42, 42);
+    border-radius: 5px;
+    
+}
+.contenuto{
+    background-color: rgba(0, 0, 0,0.5);
+    background-size: auto;
+    display: block;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 2%;
+    padding: 25px;
+    
+}
